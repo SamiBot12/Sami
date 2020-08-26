@@ -1,5 +1,5 @@
 {
-  "token": "ADD TOKEN HERE",
+  "token": "GeqXIjagQtTMixxBspgdMVcd8QJfSuLs",
   "prefix": ">",
   "mongoPath": "mongo path here",
   "redisPath": "redis path here"
